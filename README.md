@@ -11,3 +11,15 @@ A local zoo wants to keep track of how many pounds of food each of its three mon
 Be sure to also show the food eaten each day.
 
 **Input validation:  Do not accept negative numbers for pounds of food eaten.**
+
+## For example:
+|   | Sunday | Monday  | Tuesday  | Wednesday  | Thursday  | Friday  | Saturday  |
+|---|---|---|---|---|---|---|---|
+| Monkey1  | 1 | 2 | 3  | 4  | 5  | 6  | 7  |
+| Monkey2  | 9 | 8 | 7 | 6 | 5 | 4 | 3 |
+| Monkey3  | 0 | 1 | 9 | 2 | 8 | 3 | 7 |
+
+- The average amount of food eaten by the monkeys per day: [3.33, 3.67, 6.33, 4.0, 6.0, 4.33, 5.67]
+- The minimum amount of food eaten in the week eaten by any monkey: 0
+- The maximum amount of food eaten in the week eaten by any monkey: 9
+
